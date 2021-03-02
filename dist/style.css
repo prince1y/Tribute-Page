@@ -1,0 +1,45 @@
+body{
+  font-family: Lucida Console, Courier, monospace;
+  font-size: 15px;
+  background-color: #daebed;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0;
+}
+
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-div{
+  background-color: #f5f5f5;
+  margin: 60px;
+}
+
+ul{
+  max-width: 600px;
+  margin: 30px auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  margin: 0 auto 50px auto;
+  
+}
+
+li {
+  margin: 20px auto;
+}
+
+p {
+  font-size: 16px;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+a{
+  color: #6aa6d4;
+}
+a:hover{
+  color: #587387;
+}
